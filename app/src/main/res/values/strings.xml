@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facial Recognition- realTime</string>
+    <string name="splash_sceen_logo">splash_sceen_logo</string>
+    <string name="facial_recognition">Facial Recognition</string>
+</resources>

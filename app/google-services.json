@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904348393848",
+    "project_id": "facial-recognition---realtime",
+    "storage_bucket": "facial-recognition---realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904348393848:android:1a89b0764429ebf131e88d",
+        "android_client_info": {
+          "package_name": "com.example.facialrecognition_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904348393848-v3354vid0v1bkt4fop4los11578to94r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdr2dDraIkLEN5VW3O5LQOumcWxhXEL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904348393848-v3354vid0v1bkt4fop4los11578to94r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
